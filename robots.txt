@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: http://sabxa.com/sitemap.xml
+Disallow: /calendar/
+Disallow: /junk/
+Disallow: /brand//span[
+Disallow: /books/fiction/contemporary/
+Disallow: //language/
+Disallow: //span[/
+Disallow: /New-Sunrise/
+Disallow: /nokia-Z83CY
+Disallow: /SATA-Cables-CfXP8
+Disallow: /purchase_history
+Disallow: /all-notifications
+Disallow: /demo-brand1
+Disallow: /cart/addtocart
+Disallow: /cart/show-cart-modal
+Disallow: /home/section/best_selling
+Disallow: /cart/removeFromCart

@@ -1,0 +1,7 @@
+/*your custom css goes here*/
+
+@media(max-width:767px){
+    .about_us_desc {
+        text-align:center;
+    }
+}
